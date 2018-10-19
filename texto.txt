@@ -15,4 +15,8 @@
 1. .firstChild contiene el primer elemento de la lista tbody.
 2. El elemento tbody queda vacío luego de ejecutar el while ya que ha recorrido todo.
 3. Se obtiene el contenido de cada uno de los elementos del formulario que se ha agragado.
-4. 
+4. document.querySelector(".tabla-btc tbody") agarra el contenido de la tabla.
+5. childElementCount agara el numero de elementos que nos da la etiqueta padre.
+6. Nada por que unicamente se ha ido agregando en la su respectiva columna pero no mostrando. 
+7. Una tabla con los los datos ingresados en luego de hacer click en enviar.
+
