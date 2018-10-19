@@ -1,0 +1,18 @@
+-Create Element
+1. La variable formulario contiene el formulario de la página.
+
+-Evento submit
+1. Previene que se ejecute el código de una sola vez
+2. La variable formulario[x] contiene las extenciones del formulario.
+
+-Crear nodo
+1. td contiene cada uno de los atributos de la columna que se han ido agregando, tr contiene todo lo que se agreago al td.
+2. content contiene el contenido de cada columna.
+3. tbody contendrá el numero de filas agregadas.
+4. Crea cada una de las columnas en su respectiva fila en la tabla.
+
+-Eliminar nodo
+1. .firstChild contiene el primer elemento de la lista tbody.
+2. El elemento tbody queda vacío luego de ejecutar el while ya que ha recorrido todo.
+3. Se obtiene el contenido de cada uno de los elementos del formulario que se ha agragado.
+4. 
